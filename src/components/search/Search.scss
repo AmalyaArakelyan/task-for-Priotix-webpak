@@ -1,0 +1,22 @@
+.form-group{
+  .form-control{
+    margin-right: 3px;
+    padding-right: 40px;
+  }
+}
+.search{
+  position: relative;
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+  input{
+
+  }
+  .icon{
+    width: 30px;
+    position: absolute;
+    right: 10px;
+    top:3px;
+    opacity: .5;
+  }
+}
